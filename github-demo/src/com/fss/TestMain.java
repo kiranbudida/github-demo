@@ -6,6 +6,10 @@ public class TestMain {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello Github");
+		
+		for (int i=0;i<5;i++) {
+			System.out.println(i);
+		}
 	}
 
 }
